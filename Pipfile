@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+python-docx = "*"
+pyqt5 = "*"
+pydantic = "*"
+opencv-python = "*"
+bcrypt = "*"
+
+[requires]
+python_version = "3.7"

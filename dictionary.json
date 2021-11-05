@@ -1,0 +1,130 @@
+[
+  {
+    "lemma": "Academic standards",
+    "definition": "Statements that provide a clear description of the knowledge and skills students should be developing through instruction.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Achievement test",
+    "definition": "A test to measure a student\u2019s knowledge and skills.",
+    "mentions": [
+      "Test"
+    ],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Test",
+    "definition": "A formal assessment of a learner\u2019s language.\nAn achievement test is used to see how well learners have learned the language and skills taught in class. Achievement tests are often at the end of term or end of the year and test the main points of what has been taught in that time.\nA diagnostic test is used to identify problems that learners have with language or skills. The teacher diagnoses the language problems learners have. It can also be used to diagnose learner strengths. It helps the teacher to plan what to teach, or what not to teach, in future.\nAn objective test is marked without using the examiner\u2019s opinion, e.g. true/true questions, multiple-choice questions. There is a clear right answer.\nA placement test is often used at the beginning of a course in a language school in order to identify a learner\u2019s level of language and find the best class for them.\nA proficiency test is used to see how good learners are at using the target language. The contents of a proficiency test are not chosen according to what has been taught, but according to what is needed for a particular purpose, e.g. English for hotel receptionists, English for studying at university, English for general communication. Cambridge ESOL First Certificate in English (FCE) and IELTS are examples of proficiency tests.\nA progress test is used during a course in order to assess the learning up to a particular point in the course. \nA subjective test is marked using the examiner\u2019s opinion about the quality of the answer. The answer is not simply right or wrong, e.g. marking written stories, compositions, interviews, conversations, story-telling.\nA summative test is used at the end of a course. The focus is on the mark or grade given and feedback is not usually provided.",
+    "mentions": ["Achievement test", "Formal assessment"],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Formative assessment",
+    "definition": "Any form of assessment used by an educator to evaluate students' knowledge and understanding of particular content and then to adjust instructional practices accordingly toward improving student achievement in that area.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Nonverbal communication",
+    "definition": "Paralinguistic and non linguistic messages that can be transmitted in conjunction with language or without the aid of language; paralinguistic mechanisms include intonation, stress, rate of speech, and pauses or hesitations; non linguistic behaviours include gestures, facial expressions, and body language, among others.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Off task",
+    "definition": "When learners are distracted or not completing an activity in the way the teacher wants them to do it then they are off task.",
+    "mentions": ["On task"],
+    "is_built_in": true
+  },
+  {
+    "lemma": "On task",
+    "definition": "When learners are doing an activity in the way the teacher intended that it should be done then learners are on task. See off task.",
+    "mentions": ["Off task"],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Venn diagram",
+    "definition": "A drawing of circles that cross over each other showing the similarities and differences between two or three objects, people, concepts, places. They are also used to show a whole set of items and a sub-set of those items.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Word map",
+    "definition": "A diagram which is used to make a visual record of vocabulary on the same topic, e.g. car bus transport train plane",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Utterance",
+    "definition": "A complete unit of speech in spoken language. An utterance can be shorter than a sentence, e.g. A: When\u2019s he coming? B: Tomorrow. \u2018Tomorrow\u2019 is an utterance here.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Total Physical Response",
+    "definition": "A way of teaching in which the teacher presents language items in instructions and the learners have to do exactly what the teacher tells them, e.g. Open the window. Stand up.  Over the years, language teachers have intuitively recognized the value of associating language with physical activity. James Asher (1977) developed the Total Physical Response method from this idea. In addition to evolve around that concept, the method also combines insights from children language acquisition concepts. Asher believed that the process of learning should include a lot of reading and listening before acting. He also gave importance to \"right brained\" learning, whereas the right brain hosts motor activity. In a TPR classroom, the students would a great deal of listening and acting. The teacher would give many directives for the students perform the acting. As Asher quoted, \"The instructor is the director of a stage play in which the students are the actors.\" This over-directing attitude of the teacher was believed to reduce stress for the students, and therefore facilitate learning.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "TOEFL",
+    "definition": "Test of English as a Foreign Language \u2013 a standardized test of English proficiency; it is widely used to measure the English-language proficiency of foreign students wishing to enter American universities.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Metalanguage",
+    "definition": "Metalanguage refers to the language we use when talking about language itself. This may consist of terminology \u2013 sentence, noun, past tense, intonation, discourse - or the type of grammar rules that can be found in reference grammars and some school books.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Language variety",
+    "definition": "Variations of a language used by particular groups of people, includes regional dialects characterized by distinct vocabularies, speech patterns, grammatical features, and so forth; may also vary by social group (sociolect) or idiosyncratically for a particular individual (idiolect).",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Jigsaw listening/reading",
+    "definition": "A text is divided into two or more different parts. Learners listen to or read their part only, then share their information with other learners so that in the end everyone knows all the information. In this way, the text is made into an information-gap activity.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Colloquial",
+    "definition": "Language normally used in informal conversation but not in formal speech or writing, e.g. Give Gran a ring, OK?",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Communication strategies",
+    "definition": "Strategies for using L2 knowledge. These are used when learners do not have the correct language for the concept they wish to express. Thus they use strategies such as paraphrase and mime.",
+    "mentions": ["Learner strategy"],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Learner strategy",
+    "definition": "Learner strategies are the behaviours or actions that learners engage in, in order to learn or use the L2. They are generally considered to be conscious.",
+    "mentions": ["Cognitive strategies", "Metacognitive strategies"],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Cognitive strategies",
+    "definition": "O\u2019Malley and Chamot define them as learning strategies that \u2018operate directly on incoming information, manipulating it in ways that enhance learning\u2019 (1990: 44). They involve such operations as rehearsal, organising information, and inferencing.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Metacognitive strategy",
+    "definition": "Many L2 learners are able to think consciously about how they learn and how successfully they are learning. ~s involve planning learning, monitoring the process of learning, and evaluating how successful a particular strategy is.",
+    "mentions": [],
+    "is_built_in": true
+  },
+  {
+    "lemma": "Formal assessment",
+    "definition": "When a teacher judges learners\u2019 work through a test and then gives a formal report or grade to learners, to say how successful or unsuccessful they have been.",
+    "mentions": ["Test"],
+    "is_built_in": true
+  }
+]
